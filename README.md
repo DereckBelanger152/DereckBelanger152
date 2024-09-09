@@ -8,9 +8,9 @@
 <hr>
 <br>
 
-<p>A little bit about me:  I am a 20 years old student in natural sciences, located in Canada. My first language is French but I am biligual and speak/write/understand English perfectly. I have many passions such as Snowboarding (gotta take advantage of the cold winters somehow!), Golf, MMA and I absolutely love learning new things. My obsession right now is neuroscience which I have a project to open a non-professional website documenting my new-gained knowledge and share easy tips for increasing well-being and performance.
+<p>A little bit about me:  I am a 21 years old student in Computer Science at Laval University, located in Canada. My first language is French, but I am bilingual and speak/write/understand English perfectly. I have many passions such as Snowboarding (gotta take advantage of the cold winters somehow!), Golf, MMA and I absolutely love learning new things. My obsession right now is neuroscience which I have a project to open a non-professional website documenting my new-gained knowledge and share easy tips for increasing well-being and performance.
 
-I am on my way to get Harvard's CS50x computer science certificate and waiting for their new Cybersecurity certificate to open (oct. 8). Since I want to learn more in-depth, I will also attend University Laval to get my Bachelor's in CS! ou will find below a list of the projects I've been working on through the certificate and my own ideas </p>
+I am on my way to get Harvard's CS50x computer science certificate and their new Cybersecurity certificate. You will find below a list of the projects I've been working on through the certificate and my own ideas </p>
 ### IN CONSTRUCTION
 <br>
 <br>
