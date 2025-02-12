@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">My name is Dereck, I am a self-taught programmer!</h2>
+<h2 align="center">My name is Dereck, I am a first year computer science student</h2>
 
 <div id="header" align="center">
 <img src="https://media4.giphy.com/media/zkRQ24mPZ1HvHj9pZ6/giphy.gif?cid=ecf05e4772v83v4kl3o5gvrrq3aept91wm5ol7ahnw8dilp3&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
@@ -8,9 +8,9 @@
 <hr>
 <br>
 
-<p>A little bit about me:  I am a 21 years old student in Computer Science at Laval University, located in Canada. My first language is French, but I am bilingual and speak/write/understand English perfectly. I have many passions such as Snowboarding (gotta take advantage of the cold winters somehow!), Golf, MMA and I absolutely love learning new things. My obsession right now is neuroscience which I have a project to open a non-professional website documenting my new-gained knowledge and share easy tips for increasing well-being and performance.
+<p>A little bit about me:  I am a 22 years old student in Computer Science at Laval University, located in Canada. My first language is French, but I am bilingual and speak/write/understand English perfectly. I have many passions such as Snowboarding (gotta take advantage of the cold winters somehow!), Golf, MMA and I absolutely love learning new things. My obsession right now is neuroscience and Frontend development, I am working on websites for an AI club I work with, my own portfolio website and I want to start a sort of "blog" website as a pet project!
 
-I am on my way to get Harvard's CS50x computer science certificate and their new Cybersecurity certificate. You will find below a list of the projects I've been working on through the certificate and my own ideas </p>
+I am on my way to get Harvard's CS50x computer science certificate and their new Cybersecurity certificate. I'm also inviolved in the cybersecurity and AI club at my school. You will find below a list of the projects I've been working on through the certificate and my own ideas </p>
 ### IN CONSTRUCTION
 <br>
 <br>
