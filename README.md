@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Dereck, I am a first year computer science<br>at Université Laval in Québec, Canada<br><br>I have a passion for infrastructure and web development, but<br>I love learning about the latest news in tech in general
+<h2>Hi my name is Dereck, I am a first year computer science<br>at Université Laval in Québec, Canada<br><br>I have a passion for infrastructure and web development, but<br>I love learning about the latest news in tech in general</h2>
 
 
 ## 🌐 Socials:
