@@ -1,67 +1,119 @@
+<div align="center">
+
+<!-- Hero Section with Animated Background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=300&section=header&text=Dereck%20Bélanger&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20•%20Tech%20Enthusiast%20•%20Future%20Innovator&descAlignY=55&descSize=18"/>
+
+<!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Dereck+B%C3%A9langer!;Computer+Science+Student+%F0%9F%93%9D;Passionate+about+Tech+and+Web+Infra+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+the+Future+with+Code;Passionate+about+Web+Infrastructure;Always+Learning%2C+Always+Growing;Québec%2C+Canada+•+Université+Laval" alt="Typing Animation"/>
 </p>
 
 ---
 
-# About Me
-
-First-year Computer Science student at **Université Laval**  
-Based in **Québec, Canada**  
-Passionate about **infrastructure** and **modern web development**  
-Always exploring the latest in **technology, tools & frameworks**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dereck-bélanger-437259338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dereckblanger@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<!-- Dynamic Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dereckbelanger152&label=Profile%20Views&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dereckbelanger152?label=Followers&style=for-the-badge&color=10b981&logoColor=white" alt="GitHub Followers"/>
 </p>
 
----
+</div>
 
-## 💻 Tech Stack
+## About Me
 
-### 🖥️ Languages & Frontend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+```typescript
+const dereck = {
+    location: "Québec, Canada",
+    education: "Computer Science @ Université Laval",
+    currentFocus: ["Web Dev", "Modern Frameworks", "AI/ML"],
+    interests: ["AI/ML", "Databases", "New tech"],
+    motto: "When in doubt, push to main",
+    funFact: "I have trained with Muay thai legend Jean-Charles Skarbowsky"
+};
+```
 
-### ⚙️ Backend & Tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-### 🧪 Data Science & ML
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+<br clear="both"/>
 
 ---
 
-## 📈 GitHub Stats
+## Connect & Collaborate
 
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=dereckbelanger152&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/dereck-bélanger-437259338/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:dereckblanger@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](#)
+
+</div>
 
 ---
 
-<!-- Feel free to personalize this even more! -->
+## Tech Arsenal
 
+<div align="center">
+
+### Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,figma&theme=dark&perline=5" />
+</p>
+
+### Backend & Infrastructure  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,c,mysql,git,github,npm&theme=dark&perline=5" />
+</p>
+
+### Data Science & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jupyter&theme=dark&perline=6" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dereckbelanger152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&title_color=6366f1&icon_color=10b981"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereckbelanger152&layout=compact&langs_count=8&theme=tokyonight&border_color=6366f1&title_color=6366f1"/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dereckbelanger152&theme=tokyonight&border=6366f1&fire=ff6b6b&ring=6366f1&currStreakLabel=10b981"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dereckbelanger152&theme=tokyo-night&bg_color=1a1b27&color=6366f1&line=10b981&point=ff6b6b&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<!-- Project Cards -->
+<a href="https://github.com/cia-ulaval/EEG_siteweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cia-ulaval&repo=EEG_siteweb&theme=tokyonight&border_color=6366f1&title_color=6366f1" />
+</a>
+<a href="https://github.com/cia-ulaval/FlapEEG_interface_v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cia-ulaval&repo=FlapEEG_interface_v1&theme=tokyonight&border_color=6366f1&title_color=6366f1" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+**Don't forget to star repositories you find interesting!!!**
