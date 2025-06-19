@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section with Animated Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=300&section=header&text=Dereck%20Bélanger&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20•%20Tech%20Enthusiast%20•%20Future%20Innovator&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=300&section=header&text=Dereck%20Bélanger&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20•%20Tech%20Enthusiast%20•%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing Effect -->
 <p align="center">
@@ -42,8 +42,7 @@ const dereck = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/dereck-bélanger-437259338/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:dereckblanger@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](http://dereckbelanger.me)
 
 </div>
 
@@ -77,14 +76,10 @@ const dereck = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dereckbelanger152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&title_color=6366f1&icon_color=10b981"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereckbelanger152&layout=compact&langs_count=8&theme=tokyonight&border_color=6366f1&title_color=6366f1"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereckbelanger152&layout=compact&langs_count=8&theme=tokyonight&border_color=6366f1&title_color=6366f1"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dereckbelanger152&theme=tokyonight&border=6366f1&fire=ff6b6b&ring=6366f1&currStreakLabel=10b981"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dereckbelanger152&theme=tokyo-night&bg_color=1a1b27&color=6366f1&line=10b981&point=ff6b6b&area=true&hide_border=true"/>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dereckbelanger152&theme=tokyonight&border=6366f1&fire=ff6b6b&ring=6366f1&currStreakLabel=10b981"/>
 
 </div>
 
