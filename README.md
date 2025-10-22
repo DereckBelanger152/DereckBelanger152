@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+the+Future+with+Code;Passionate+about+Web+Infrastructure;Always+Learning%2C+Always+Growing;Québec%2C+Canada+•+Université+Laval" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+the+Future+with+Code;Passionate+about+Web+Infrastructure;Always+Learning%2C+Always+Growing;Québec%2C+Canada+•+Université+Laval"/>
 </p>
 
 ---
