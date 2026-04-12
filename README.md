@@ -3,11 +3,6 @@
 <!-- Hero Section with Animated Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=300&section=header&text=Dereck%20Bélanger&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20•%20Tech%20Enthusiast%20•%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+the+Future+with+Code;Passionate+about+Web+Infrastructure;Always+Learning%2C+Always+Growing;Québec%2C+Canada+•+Université+Laval"/>
-</p>
-
 ---
 
 <!-- Dynamic Profile Views Counter -->
@@ -75,37 +70,8 @@ const dereck = {
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereckbelanger152&layout=compact&langs_count=8&theme=tokyonight&border_color=6366f1&title_color=6366f1"/>
-
 <!-- GitHub Streak -->
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dereckbelanger152&theme=tokyonight&border=6366f1&fire=ff6b6b&ring=6366f1&currStreakLabel=10b981"/>
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<!-- Project Cards -->
-<a href="https://github.com/cia-ulaval/EEG_siteweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cia-ulaval&repo=EEG_siteweb&theme=tokyonight&border_color=6366f1&title_color=6366f1" />
-</a>
-<a href="https://github.com/cia-ulaval/FlapEEG_interface_v1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cia-ulaval&repo=FlapEEG_interface_v1&theme=tokyonight&border_color=6366f1&title_color=6366f1" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
