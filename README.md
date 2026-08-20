@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section with Animated Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=300&section=header&text=Dereck%20Bélanger&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20•%20Tech%20Enthusiast%20•%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=300&section=header&text=Dereck%20Bélanger&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20•%20Amateur%20MMA%20%20Fighter%20•%20Chess%20Enthusiast&descAlignY=55&descSize=18"/>
 
 ---
 
@@ -19,11 +19,11 @@
 ```typescript
 const dereck = {
     location: "Québec, Canada",
-    education: "Computer Science @ Université Laval",
-    currentFocus: ["Web Dev", "Modern Frameworks", "AI/ML"],
+    education: "Computer Science @ Université Laval w/ honours in AI",
+    currentFocus: ["Web Development", "Trying to keep up with AI news", "Learning Linux Systems"],
     interests: ["AI/ML", "Databases", "New tech"],
     motto: "When in doubt, push to main",
-    funFact: "I have trained with Muay thai legend Jean-Charles Skarbowsky"
+    funFact: "I have trained with three-time European Muay Thai champion legend, Jean-Charles Skarbowsky"
 };
 ```
 
@@ -31,7 +31,7 @@ const dereck = {
 
 ---
 
-## Connect & Collaborate
+## My links
 
 <div align="center">
 
@@ -40,41 +40,3 @@ const dereck = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](http://dereckbelanger.me)
 
 </div>
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-### Frontend Mastery
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,figma&theme=dark&perline=5" />
-</p>
-
-### Backend & Infrastructure  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,c,mysql,git,github,npm&theme=dark&perline=5" />
-</p>
-
-### Data Science & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jupyter&theme=dark&perline=6" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dereckbelanger152&theme=tokyonight&border=6366f1&fire=ff6b6b&ring=6366f1&currStreakLabel=10b981"/>
-
-</div>
-
----
-
-**Don't forget to star repositories you find interesting!!!**
